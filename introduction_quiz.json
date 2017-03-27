@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Combina varias herramientas de analisis de datos en una sola solucion"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "la capacidad de procesar datos estructurados y no estructurados"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Datos brutos, conjunto de datos ordenados, un code book para describir cada variable con su valor, una receta exacta"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "csv, json, xls, plain text, xml"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "navegacion en la web mediante un script que simula la navegacion de una persona"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "integrar datos de diferentes fuentes en un solo analisis"
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "El proceso que produce informacion significativa"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Clean, transform, Merge, Transform"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Clean, transform, Merge, Transform"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Es una arquitectura que te permite hacer tareas de procesamiento en la nube"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Una base de datos predefinida en la nube"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "El proceso de analisar los datos para sacar conclusiones sobre ellos"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "Para tomar decisiones de mercado, analisis de sentimientos, Business intelligence"
+		}
+	]	
+}
