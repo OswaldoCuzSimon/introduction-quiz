@@ -6,7 +6,6 @@ Script para enviar un formulario por post
 
 ### 1 Crear un entorno virtual
 
-virtualenv env
 virtualenv -p /usr/bin/python3.4 env
 
 ### 2 Activar el entorno
@@ -22,4 +21,4 @@ no olvidar poner http:// al inicio
 ### 5 Correr script
 python send_answers.py 
 
-### smile :)
+### Good luck
