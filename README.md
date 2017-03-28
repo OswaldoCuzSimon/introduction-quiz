@@ -1,25 +1,25 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Script para enviar un formulario por post
 
 ## Installation
 
-**crear un entorno virtual**
+###1 Crear un entorno virtual
 
 virtualenv env
 virtualenv -p /usr/bin/python3.4 env
 
-**activar el entorno**
+###2 Activar el entorno
 source env/bin/activate
 
-**instalar las librerias**
+###3 Instalar las librerias
 pip install -r requirements.txt
 
-**cambiar la url**
+###4 Cambiar la url
 remplazar el valor de la variable uri
 no olvidar poner http:// al inicio
 
-**correr script**
+###5 Correr script
 python send_answers.py 
 
-**smile :)**
+###smile :)
